@@ -31,4 +31,4 @@ The CookTemp Monitor uses Bluetooth to communicate between the temperature sensi
 2. **Data Transmission:** The temperature data is transmitted wirelessly via Bluetooth using the ESP32 module from the sensor device to the display device.
 3. **Data Display:** The display device processes the data and shows it on the display panel, including the stepper motor gauge needle and LED warnings if the temperature exceeds safe limits.
 
-![Communication Diagram](images/communication_diagram.jpg)
+![Communication Diagram](Images/communication_diagram.jpg)
