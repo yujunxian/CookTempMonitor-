@@ -4,14 +4,14 @@ Induction Cooktop temperature Monitor
 # Background & Introduction
 CookTemp Monitor is a smart safety reminder system designed to monitor and display the temperature of induction cooktop after cooking. The system uses four infrared temperature sensors installed above the cooktop to continuously track the temperature in four different zones. After cooking, when the cooktop is turned off, it's impossible to visually assess the temperature of the surface. Our system provides a solution by detecting the temperature in each zone and displaying it on a safety panel. Additionally, an LED light alerts users when the temperature exceeds safe limits, helping to reduce the risk of burns or fire hazards.
 
-![Cooktop Setup](images/IMG_4852.jpg)
+![Cooktop Setup](Images/IMG_4852.jpg)
 
 ## Sensor Device
 The CookTemp Monitor includes four infrared temperature sensors, each dedicated to monitoring the temperature of one specific zone on the cooktop. These sensors are installed above the cooktop and continuously measure the temperature of the cooking surface. By using infrared technology, they can detect the surface temperature without any physical contact. 
 
 Each sensor is responsible for one of the four zones, ensuring that every part of the cooktop is accurately monitored. The sensors transmit the temperature data to the display device via wireless communication, providing real-time updates.
 
-![Sensor Sketch](images/sensor.jpg)
+![Sensor Sketch](Images/sensor.jpg)
 
 ## Display Device
 
@@ -19,7 +19,7 @@ The display device is located near the cooktop and shows the real-time temperatu
 
 If the temperature exceeds safe levels (e.g., 60°C), a red LED light activates to alert the user visually, ensuring safety. The display provides an easy-to-read, real-time update of the cooktop’s status, preventing potential hazards by informing the user when it’s too hot to touch.
 
-![Display Sketch](images/display.jpg)
+![Display Sketch](Images/display.jpg)
 
 ## Device Communication
 
