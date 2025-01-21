@@ -12,6 +12,7 @@ The CookTemp Monitor includes four infrared temperature sensors, each dedicated 
 Each sensor is responsible for one of the four zones, ensuring that every part of the cooktop is accurately monitored. The sensors transmit the temperature data to the display device via wireless communication, providing real-time updates.
 
 ![Sensor Sketch](Images/sensor.jpg)
+![Sensor Sketch](Images/Temp Sensor.jpg)
 
 ## Display Device
 
@@ -32,4 +33,4 @@ The sensor and display are commnunicate through BLE by 2  ESp32C3.
 2. **Data Transmission:** The temperature data is transmitted wirelessly via Bluetooth using the ESP32 module from the sensor device to the display device.
 3. **Data Display:** The display device processes the data and shows it on the display panel, including the stepper motor gauge needle and LED warnings if the temperature exceeds safe limits.
 
-![Communication Diagram](Images/communication_diagram.jpg)
+![Communication Diagram](Images/ESP 32.jpg)
