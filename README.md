@@ -12,7 +12,7 @@ The CookTemp Monitor includes four infrared temperature sensors, each dedicated 
 Each sensor is responsible for one of the four zones, ensuring that every part of the cooktop is accurately monitored. The sensors transmit the temperature data to the display device via wireless communication, providing real-time updates.
 
 ![Sensor Sketch](Images/sensor.jpg)
-![Sensor Sketch](Images/Temp Sensor.jpg)
+![Sensor Sketch](Images/TempSensor.png)
 
 ## Display Device
 
