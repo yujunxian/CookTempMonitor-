@@ -65,5 +65,18 @@ Sensor Architecture
 Display Architecture
 
 
+## Hardware List
+Sensor Device:
+1. ESP32 Development Board (Model: ESP32-C3)
+2. Infrared Temperature Sensors (Model: MLX90614)
+3. Power Source for ESP32 (Model: Rechargeable 3.7V Li-ion Battery)
+4. Enclosure for Sensor Device (Material: 3D-printed PLA/ABS plastic or aluminum (high temperature resistant))
 
+Display Device:
+1. ESP32 Development Board (Model: ESP32-C3)
+2. Stepper Motor with Driver Board (Model: TBC)
+3. LED Indicators (Model: Standard 5mm LEDs (Green, Yellow, Red))
+4. Push Button (Model: Standard momentary push button)
+5. Power Source for Display Device (Model: Rechargeable 3.7V Li-ion Battery)
+6. Enclosure for Sensor Device (Material: 3D-printed PLA/ABS plastic or aluminum (high temperature resistant))
 
