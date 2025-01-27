@@ -80,3 +80,10 @@ Display Device:
 5. Power Source for Display Device (Model: Rechargeable 3.7V Li-ion Battery)
 6. Enclosure for Sensor Device (Material: 3D-printed PLA/ABS plastic or aluminum (high temperature resistant))
 
+## PCB Design
+Here is the screenshot of the PCB design.
+![Schematic Screenshot](Images/pcb.png)
+
+## Schematic Design
+Here is the screenshot of the schematic design.
+![Schematic Screenshot](Images/sch.png)
