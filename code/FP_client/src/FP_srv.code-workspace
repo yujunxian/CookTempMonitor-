@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../code/FP_srv"
+		},
+		{
+			"name": "FP_client",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
